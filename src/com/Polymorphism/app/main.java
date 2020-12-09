@@ -16,9 +16,9 @@ public class main {
 		Chat chatt = new Chat("chat", "color");
 		Animal chattt = new Chat("chat" , "color");
 
-//		chatt.ReadSound("\\sound-effects\\chat.wav", "chat");
+//		chatt.ReadSound("\\sound\\chat.wav", "chat");
 		
-		chattt.ReadSound("\\sound-effects\\chat.wav", "chat");
+		chattt.ReadSound("\\sound\\chat.wav", "chat");
 	}
 
 }
